@@ -6,7 +6,6 @@
   hey there :wave:
 </h1>
 
----
 
 ### :raising_hand_woman: About Me :
 
