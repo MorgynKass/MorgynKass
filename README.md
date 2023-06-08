@@ -11,9 +11,9 @@
 
 ### :raising_hand_woman: About Me :
 
-I am a software development student <img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" width="30">
+I am a software development student :woman_student:.
 
-- :woman_technologist: I am a software student since May, 2023.
+- :woman_technologist: I have been a software student since May, 2023.
 - :video_game: In my free time I like to game and go to the gym :running_woman:.
 
 ---
