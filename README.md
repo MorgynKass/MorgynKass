@@ -17,7 +17,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl1ZWVhZWN4MzhmNTZpZHlidXFuZHZkaWNjdGc1MnRuemduMHBzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.webp" width="50px" height="50px"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNpemFlejUwZGR4djJycnU5MXcwM2Ztb2dmNm1wMWo0ZDZsOGU5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gggOsc0HFC1DcTHKLO/giphy.webp" width="50px" height="50px"/>
   Hello World! I'm Morgyn!
 </h1>
 
