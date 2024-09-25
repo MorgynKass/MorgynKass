@@ -17,7 +17,7 @@
 </div>
 
 <h1>
-  <img src="[https://giphy.com/stickers/cat-cartoon-kawaii-gggOsc0HFC1DcTHKLO](https://giphy.com/embed/xAqHUL21pMHe0)" width="100px"/>
+  <img src="https://giphy.com/embed/xAqHUL21pMHe0" width="100px"/>
   Hello World! I'm Morgyn!
 </h1>
 
