@@ -17,7 +17,7 @@
 </div>
 
 <h1>
-  <img src="https://giphy.com/embed/gggOsc0HFC1DcTHKLO" width="100%" height="100%"/>
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/gggOsc0HFC1DcTHKLO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/cat-cartoon-kawaii-gggOsc0HFC1DcTHKLO">via GIPHY</a></p>
   Hello World! I'm Morgyn!
 </h1>
 
