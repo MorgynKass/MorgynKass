@@ -17,7 +17,7 @@
 </div>
 
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl1ZWVhZWN4MzhmNTZpZHlidXFuZHZkaWNjdGc1MnRuemduMHBzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.webp" width="100px"/>
   Hello World! I'm Morgyn!
 </h1>
 
