@@ -1,10 +1,16 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDY1Mzk1MzVjMmY3YmYzZTMxZWNhZjk3NWU4YTg3ZDJkMGFiMGI0MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Wj7lNjMNDxSmc/giphy.gif" width="100"/>
-</div>
-
-<h1 align="center">
-  hey there :wave:
-</h1>
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/morgyn-peay-567560271/">
