@@ -8,7 +8,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/morgyn-peay-567560271/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=social" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge"/>
   </a>
 </div>
 
