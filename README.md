@@ -16,10 +16,8 @@
   </a>
 </div>
 
-<iframe src="https://giphy.com/embed/xAqHUL21pMHe0" width="480" height="370" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/cat-cute-xAqHUL21pMHe0">via GIPHY</a></p>
-
 <h1>
-  <img src="https://giphy.com/stickers/cat-cartoon-kawaii-gggOsc0HFC1DcTHKLO" width="100px"/>
+  <img src="[https://giphy.com/stickers/cat-cartoon-kawaii-gggOsc0HFC1DcTHKLO](https://giphy.com/embed/xAqHUL21pMHe0)" width="100px"/>
   Hello World! I'm Morgyn!
 </h1>
 
