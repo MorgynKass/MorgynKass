@@ -17,7 +17,7 @@
 </div>
 
 <h1>
-  <img src="https://giphy.com/stickers/hi-hola-saludos-kBZ212yGzFaxgkSIKW.gif" width="100px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"/>
   Hello World! I'm Morgyn!
 </h1>
 
